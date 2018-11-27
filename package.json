@@ -1,0 +1,30 @@
+{
+  "name": "firstproj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "restart": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Choukosume/firstproj.git"
+  },
+  "author": "choukosume",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Choukosume/firstproj/issues"
+  },
+  "homepage": "https://github.com/Choukosume/firstproj#readme",
+  "devDependencies": {
+    "assemble-less": "^0.7.0",
+    "grunt": "^1.0.1"
+  },
+  "dependencies": {
+    "connect": "^3.6.3",
+    "jquery": "^3.2.1",
+    "serve-static": "^1.12.4",
+    "w3-css": "^4.0.4"
+  }
+}
